@@ -1,0 +1,49 @@
+# 1 update demo account
+
+#echo "Execute o update para criar os arquivos"
+
+# questao 2 sort 
+
+#cat /home/demo/club_members /home/demo/names | sort >> /home/demo/s1
+
+# questao 3 
+
+# cat /home/demo/club_members /home/demo/names | sort -r >> /home/demo/s2
+
+# questao 4 sort on a fied
+
+#sort -k 5n,5 /home/demo/club_members >> /home/demo/s3
+
+# Question 5: sort with field separator
+
+#sort -n -t ':' -k3 /etc/passwd >> /home/demo/s4
+
+# Question 6: using grep
+
+#cat /usr/share/dict/words | grep 'wta' | head -1
+
+# Question 7: count with grep
+
+#cat /usr/share/dict/words | grep 'x' | wc -l
+
+# Question 8: negative grep
+
+#cat /etc/passwd | grep -vn 'nologin' >> /home/demo/s5 
+
+# Question 9: grep and ls
+
+#ls -l /etc | grep 'Mar' >> s6
+
+# Question 10: ls grep and sort
+
+#ls -l /etc | grep 'Jun' | sort -k5 > s7
+
+# Question 11: find root files
+
+#find /var -user root > s8
+
+#Question 12: find .conf files
+
+#find /etc/ -type f | find /etc/ -name "*.conf" >> s9
+
+#Question 13: find new files
