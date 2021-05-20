@@ -1,0 +1,31 @@
+#Other permission, seria para outros e esta marcando octal de 644 sendo o 4 r de read, entao seria so leitura.
+#echo "Resposta: So leitura"
+
+# Questao 4 remove read and execute 
+
+#chmod 255 /home/demo/scripts/
+
+# Questao 5 impact of no rx
+
+#echo "resposta: Cold no ls the directory"
+
+# Questao 6 add read
+
+#chmod 655 /home/demo/scripts/
+
+# Questao 7 Add execute
+
+#echo "resposta:"Could ls, but not access contents"
+
+# Questao 8 add execute
+
+#chmod 755 /home/demo/scripts/
+
+# Questao 9 read/write/execute for yourself, read and execute for group, but only execute for others
+
+#https://wintelguy.com/umask-calc.pl
+#Examples:
+#umask 026
+#umask u=rwx,g=rx,o=x
+
+#echo "resposta: octal 026"
