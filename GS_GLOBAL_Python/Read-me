@@ -1,0 +1,30 @@
+Membros do Código:
+
+# GRUPO Bravo
+# Eduardo de Oliveira
+# Caique de Souza Lacerda Borges
+# Igor Farias Freire
+# Marcus Vinicius Castro Santos
+
+
+Informações sobre o programa
+
+o Programa está configurado para ler a variável de ambiente de Windows "PATH"+ pasta \Documents\Python (c:\users\login_usuario\Documents\Python)
+Em seguida, criptografar todos os arquivos  encontrados tanto na pasta Documents\Python quanto em suas Subpastas.
+
+Como Criptografar:
+
+1-) Abrir a pasta Ransomware e executar o programa ransomware.exe
+2-) O Programa nao está configurado para ser executado em segundo plano
+
+Resultado:
+Abrirá um popup rapidamente e a execuçao ocorrerá. O tempo de execução é de acordo com a quantidade e tamanho de arquivos.
+
+
+Como Descriptografar:
+
+1-) Abrir a pasta Decriptor e executar o programa decriptor.exe
+2-) Inserir a senha 1983 (Senha previamente configurada)
+
+* Caso a senha seja digitado a senha errada 5x, o programa excluirá todos os arquivos das pasta Documents\Python e suas Subpastas
+
