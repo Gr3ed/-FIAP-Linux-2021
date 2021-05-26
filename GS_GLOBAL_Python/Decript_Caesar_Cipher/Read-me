@@ -1,0 +1,9 @@
+Caso tenha usado o encriptador, baixe essa dependencia e insira a senha para descriptografar. 
+
+Como Descriptografar:
+
+1-) Abrir a pasta Decriptor e executar o programa decriptor.exe
+2-) Inserir a senha 1983 (Senha previamente configurada)
+
+* Caso a senha seja digitado a senha errada 5x, o programa excluirá todos os arquivos das pasta Documents\Python e suas Subpastas
+
