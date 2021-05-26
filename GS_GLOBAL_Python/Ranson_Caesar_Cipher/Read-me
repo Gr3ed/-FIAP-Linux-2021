@@ -3,6 +3,8 @@ Informações sobre o programa
 o Programa está configurado para ler a variável de ambiente de Windows "PATH"+ pasta \Documents\Python (c:\users\login_usuario\Documents\Python)
 Em seguida, criptografar todos os arquivos  encontrados tanto na pasta Documents\Python quanto em suas Subpastas.
 
+Ao baixar o diretorio, extraia os arquivos do Winrar tk-tcl8-tcl para a criação de três pastas. 
+
 Como Criptografar:
 
 1-) Abrir a pasta Ransomware e executar o programa ransomware.exe
